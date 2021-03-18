@@ -1,0 +1,542 @@
+<paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>1</_xFEFF_id>
+    <Nombre>Apolonia</Nombre>
+    <Latitud>37.68314537141109</Latitud>
+    <Longitud>-1.680531121026661</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>2</_xFEFF_id>
+    <Nombre>Los Ángeles</Nombre>
+    <Latitud>37.68259771038756</Latitud>
+    <Longitud>-1.6847904689423103</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>3</_xFEFF_id>
+    <Nombre>El Caño</Nombre>
+    <Latitud>37.682402419432165</Latitud>
+    <Longitud>-1.6868128545395393</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>4</_xFEFF_id>
+    <Nombre>Ramblilla Tejares</Nombre>
+    <Latitud>37.68236421027208</Latitud>
+    <Longitud>-1.6893716819397468</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>5</_xFEFF_id>
+    <Nombre>Parada Taxis</Nombre>
+    <Latitud>37.682088254642515</Latitud>
+    <Longitud>-1.6916998393646736</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>6</_xFEFF_id>
+    <Nombre>Calle Mayor</Nombre>
+    <Latitud>37.6819990995274</Latitud>
+    <Longitud>-1.6944732434860725</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>7</_xFEFF_id>
+    <Nombre>Santo Domingo</Nombre>
+    <Latitud>37.6772015472284</Latitud>
+    <Longitud>-1.696860409509327</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>8</_xFEFF_id>
+    <Nombre>Correos</Nombre>
+    <Latitud>37.675452273989265</Latitud>
+    <Longitud>-1.6975899703613777</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>9</_xFEFF_id>
+    <Nombre>Colón</Nombre>
+    <Latitud>37.67280281074434</Latitud>
+    <Longitud>-1.6992207534424324</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>10</_xFEFF_id>
+    <Nombre>La Isla</Nombre>
+    <Latitud>37.67117232480326</Latitud>
+    <Longitud>-1.6990920074097175</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>11</_xFEFF_id>
+    <Nombre>Yanfer Institutos</Nombre>
+    <Latitud>37.67013626824737</Latitud>
+    <Longitud>-1.6998430259338874</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>12</_xFEFF_id>
+    <Nombre>Antigua Báscula</Nombre>
+    <Latitud>37.66818300753294</Latitud>
+    <Longitud>-1.7014308936707038</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>13</_xFEFF_id>
+    <Nombre>Antigua Gasolinera Gálvez</Nombre>
+    <Latitud>37.66655242008917</Latitud>
+    <Longitud>-1.7026110656372566</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>14</_xFEFF_id>
+    <Nombre>Guardia Civil</Nombre>
+    <Latitud>37.66420838787785</Latitud>
+    <Longitud>-1.7044564254395027</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>15</_xFEFF_id>
+    <Nombre>Supermercado Estrella</Nombre>
+    <Latitud>37.662543740343544</Latitud>
+    <Longitud>-1.7057653434387702</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>16</_xFEFF_id>
+    <Nombre>La Viña</Nombre>
+    <Latitud>37.66137167019506</Latitud>
+    <Longitud>-1.7066665656677742</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>17</_xFEFF_id>
+    <Nombre>San Antonio</Nombre>
+    <Latitud>37.65829702143002</Latitud>
+    <Longitud>-1.7093273170105476</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>18</_xFEFF_id>
+    <Nombre>Hotel Amaltea</Nombre>
+    <Latitud>37.65607164372168</Latitud>
+    <Longitud>-1.7115803725830574</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>19</_xFEFF_id>
+    <Nombre>Conc. Mercedes</Nombre>
+    <Latitud>37.65301376403568</Latitud>
+    <Longitud>-1.7147775657288093</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>20</_xFEFF_id>
+    <Nombre>Conc. Seat</Nombre>
+    <Latitud>37.649751886905285</Latitud>
+    <Longitud>-1.7181249625793952</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>21</_xFEFF_id>
+    <Nombre>Michelín</Nombre>
+    <Latitud>37.6471015062416</Latitud>
+    <Longitud>-1.7207642562500495</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>22</_xFEFF_id>
+    <Nombre>Cementerio</Nombre>
+    <Latitud>37.64545346544836</Latitud>
+    <Longitud>-1.7223735816589851</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>23</_xFEFF_id>
+    <Nombre>Agencia Transportes</Nombre>
+    <Latitud>37.64445103099841</Latitud>
+    <Longitud>-1.7235966689697761</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>24</_xFEFF_id>
+    <Nombre>Venta El Gitano</Nombre>
+    <Latitud>37.642751958661734</Latitud>
+    <Longitud>-1.7252918250671882</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>25</_xFEFF_id>
+    <Nombre>Redonda Subida Hospital</Nombre>
+    <Latitud>37.640339209170314</Latitud>
+    <Longitud>-1.7285104758850593</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>26</_xFEFF_id>
+    <Nombre>Escuela T. Torrecilla</Nombre>
+    <Latitud>37.64146063769462</Latitud>
+    <Longitud>-1.7306347854248542</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>27</_xFEFF_id>
+    <Nombre>Dúplex Hospital</Nombre>
+    <Latitud>37.642972840263205</Latitud>
+    <Longitud>-1.732587433587696</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>28</_xFEFF_id>
+    <Nombre>Hospital</Nombre>
+    <Latitud>37.64409422903139</Latitud>
+    <Longitud>-1.7343255050293464</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>29</_xFEFF_id>
+    <Nombre>Centro Comercial Parque Almenara</Nombre>
+    <Latitud>37.63519061551592</Latitud>
+    <Longitud>-1.700379467736866</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>30</_xFEFF_id>
+    <Nombre>Avda. Europa</Nombre>
+    <Latitud>37.68053863857817</Latitud>
+    <Longitud>-1.6911848552338142</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>31</_xFEFF_id>
+    <Nombre>Floridablanca</Nombre>
+    <Latitud>37.67569004170575</Latitud>
+    <Longitud>-1.695433474313404</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>32</_xFEFF_id>
+    <Nombre>Las Columnas</Nombre>
+    <Latitud>37.67387279767356</Latitud>
+    <Longitud>-1.696710205804493</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>33</_xFEFF_id>
+    <Nombre>Bajada La Estación</Nombre>
+    <Latitud>37.672361224339376</Latitud>
+    <Longitud>-1.6979440219513435</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>34</_xFEFF_id>
+    <Nombre>Óvalo</Nombre>
+    <Latitud>37.67231027189279</Latitud>
+    <Longitud>-1.699456787835743</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>35</_xFEFF_id>
+    <Nombre>Cruce del Gato</Nombre>
+    <Latitud>37.66548065157408</Latitud>
+    <Longitud>-1.6953382006726088</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>36</_xFEFF_id>
+    <Nombre>Viviendas Sociales</Nombre>
+    <Latitud>37.6637266042787</Latitud>
+    <Longitud>-1.6942984268090413</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>37</_xFEFF_id>
+    <Nombre>Camino Quijero 1</Nombre>
+    <Latitud>37.660860083437214</Latitud>
+    <Longitud>-1.6954426151877442</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>38</_xFEFF_id>
+    <Nombre>Camino Quijero 2</Nombre>
+    <Latitud>37.659646934765426</Latitud>
+    <Longitud>-1.6970382509242654</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>39</_xFEFF_id>
+    <Nombre>Cam. Quijero 1</Nombre>
+    <Latitud>37.65765660991439</Latitud>
+    <Longitud>-1.6981440429988197</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>40</_xFEFF_id>
+    <Nombre>Cam. Quijero 2</Nombre>
+    <Latitud>37.65419714351786</Latitud>
+    <Longitud>-1.6970048398522977</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>41</_xFEFF_id>
+    <Nombre>Cam. Quijero 3</Nombre>
+    <Latitud>37.6482299883873</Latitud>
+    <Longitud>-1.6963519110358902</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>42</_xFEFF_id>
+    <Nombre>Cam. Quijero 4</Nombre>
+    <Latitud>37.64821507194513</Latitud>
+    <Longitud>-1.696409114272683</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>43</_xFEFF_id>
+    <Nombre>Cam. Quijero 5</Nombre>
+    <Latitud>37.64657354659375</Latitud>
+    <Longitud>-1.6959172098305544</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>44</_xFEFF_id>
+    <Nombre>Local Social</Nombre>
+    <Latitud>37.645216458448246</Latitud>
+    <Longitud>-1.6947751791062728</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>45</_xFEFF_id>
+    <Nombre>Iglesia Campillo</Nombre>
+    <Latitud>37.64715926943</Latitud>
+    <Longitud>-1.6927008358990179</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>46</_xFEFF_id>
+    <Nombre>Colegio Campillo</Nombre>
+    <Latitud>37.649243962174346</Latitud>
+    <Longitud>-1.6898466811355775</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>47</_xFEFF_id>
+    <Nombre>Semáforo Cruz Campillo</Nombre>
+    <Latitud>37.65259954775469</Latitud>
+    <Longitud>-1.6882611133353294</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>48</_xFEFF_id>
+    <Nombre>La Granja</Nombre>
+    <Latitud>37.654617356506876</Latitud>
+    <Longitud>-1.6889787187543561</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>49</_xFEFF_id>
+    <Nombre>La Báscula</Nombre>
+    <Latitud>37.65697657879946</Latitud>
+    <Longitud>-1.6903543319704113</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>50</_xFEFF_id>
+    <Nombre>Las Vegas</Nombre>
+    <Latitud>37.66001276650197</Latitud>
+    <Longitud>-1.6921848645706632</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>51</_xFEFF_id>
+    <Nombre>Puente de La Pía</Nombre>
+    <Latitud>37.66438675293628</Latitud>
+    <Longitud>-1.6858303782481698</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>52</_xFEFF_id>
+    <Nombre>Camino Central</Nombre>
+    <Latitud>37.645198622697485</Latitud>
+    <Longitud>-1.6689002749461679</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>53</_xFEFF_id>
+    <Nombre>Camino Central (centro de salud)</Nombre>
+    <Latitud>37.650546953170995</Latitud>
+    <Longitud>-1.6751596773945039</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>54</_xFEFF_id>
+    <Nombre>Camino Central (Bastida)</Nombre>
+    <Latitud>37.65363022652162</Latitud>
+    <Longitud>-1.679722913089222</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>55</_xFEFF_id>
+    <Nombre>Vereda Morillas I</Nombre>
+    <Latitud>37.65612907539267</Latitud>
+    <Longitud>-1.6838093688910476</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>56</_xFEFF_id>
+    <Nombre>Vereda Morillas II</Nombre>
+    <Latitud>37.651356534955475</Latitud>
+    <Longitud>-1.6820097189749958</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>57</_xFEFF_id>
+    <Nombre>Vereda Morillas III</Nombre>
+    <Latitud>37.64497773553165</Latitud>
+    <Longitud>-1.6743298537842293</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>58</_xFEFF_id>
+    <Nombre>Carril del Vela</Nombre>
+    <Latitud>37.64239514853354</Latitud>
+    <Longitud>-1.6718729503265877</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>59</_xFEFF_id>
+    <Nombre>Cruce Carril del Vela</Nombre>
+    <Latitud>37.639753001159086</Latitud>
+    <Longitud>-1.6764434344879646</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>60</_xFEFF_id>
+    <Nombre>Vereda Seguras</Nombre>
+    <Latitud>37.642057247800516</Latitud>
+    <Longitud>-1.6786906787392581</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>61</_xFEFF_id>
+    <Nombre>Curva José Díaz</Nombre>
+    <Latitud>37.67174413935397</Latitud>
+    <Longitud>-1.678598294331664</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>62</_xFEFF_id>
+    <Nombre>La Cruz</Nombre>
+    <Latitud>37.666499783730885</Latitud>
+    <Longitud>-1.6700473066907762</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>63</_xFEFF_id>
+    <Nombre>Puente El Palo</Nombre>
+    <Latitud>37.664186059492856</Latitud>
+    <Longitud>-1.666688657981581</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>64</_xFEFF_id>
+    <Nombre>Camino Manzanares</Nombre>
+    <Latitud>37.65778865000704</Latitud>
+    <Longitud>-1.6591343702800714</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>65</_xFEFF_id>
+    <Nombre>Camino Manzanares (cerrajería)</Nombre>
+    <Latitud>37.661906394930405</Latitud>
+    <Longitud>-1.654979225048237</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>66</_xFEFF_id>
+    <Nombre>Gasolinera La Casilla</Nombre>
+    <Latitud>37.664590219043305</Latitud>
+    <Longitud>-1.6514494379846383</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>67</_xFEFF_id>
+    <Nombre>Estanco Serafín</Nombre>
+    <Latitud>37.66545752457811</Latitud>
+    <Longitud>-1.6475798071079453</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>68</_xFEFF_id>
+    <Nombre>Cruce Camino Serval</Nombre>
+    <Latitud>37.65841321643245</Latitud>
+    <Longitud>-1.644617738930151</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>69</_xFEFF_id>
+    <Nombre>Cruce Santa Gertrudis</Nombre>
+    <Latitud>37.65588206038357</Latitud>
+    <Longitud>-1.6541020300068112</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>70</_xFEFF_id>
+    <Nombre>Los Martínez</Nombre>
+    <Latitud>37.650717554917414</Latitud>
+    <Longitud>-1.6446391966022702</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>71</_xFEFF_id>
+    <Nombre>Riegos Agrosolmen</Nombre>
+    <Latitud>37.64480511432085</Latitud>
+    <Longitud>-1.6315071012653561</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>72</_xFEFF_id>
+    <Nombre>El Super</Nombre>
+    <Latitud>37.64094630166353</Latitud>
+    <Longitud>-1.6189497702229119</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>73</_xFEFF_id>
+    <Nombre>Los Garcías</Nombre>
+    <Latitud>37.64571024500394</Latitud>
+    <Longitud>-1.6133109056338526</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>74</_xFEFF_id>
+    <Nombre>Camino Los Pastores</Nombre>
+    <Latitud>37.6484762084121</Latitud>
+    <Longitud>-1.605931084677195</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>75</_xFEFF_id>
+    <Nombre>Alporchones</Nombre>
+    <Latitud>37.649261978709845</Latitud>
+    <Longitud>-1.6017608160382224</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>76</_xFEFF_id>
+    <Nombre>Los Dioses</Nombre>
+    <Latitud>37.644334881001676</Latitud>
+    <Longitud>-1.6034559721356345</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>77</_xFEFF_id>
+    <Nombre>Gasolinera La Balsica (Bar Javier)</Nombre>
+    <Latitud>37.64037060038352</Latitud>
+    <Longitud>-1.6146691559740702</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>78</_xFEFF_id>
+    <Nombre>Déficit</Nombre>
+    <Latitud>37.68308169010451</Latitud>
+    <Longitud>-1.6996928222290535</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>79</_xFEFF_id>
+    <Nombre>Paso Encarnado</Nombre>
+    <Latitud>37.68382518775441</Latitud>
+    <Longitud>-1.7044434897854899</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>80</_xFEFF_id>
+    <Nombre>Bar Emigrante</Nombre>
+    <Latitud>37.687562143691345</Latitud>
+    <Longitud>-1.7091341199920862</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>81</_xFEFF_id>
+    <Nombre>Europa</Nombre>
+    <Latitud>37.68721403927728</Latitud>
+    <Longitud>-1.7131788911865442</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>82</_xFEFF_id>
+    <Nombre>El Salto</Nombre>
+    <Latitud>37.68391112869801</Latitud>
+    <Longitud>-1.715593431510115</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>83</_xFEFF_id>
+    <Nombre>Fábrica de Curtidos</Nombre>
+    <Latitud>37.691026035576165</Latitud>
+    <Longitud>-1.7103148441688063</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>84</_xFEFF_id>
+    <Nombre>Bar Pintor</Nombre>
+    <Latitud>37.69564441643501</Latitud>
+    <Longitud>-1.705379579581404</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>85</_xFEFF_id>
+    <Nombre>Casa Alfonso Rodríguez</Nombre>
+    <Latitud>37.69318541621593</Latitud>
+    <Longitud>-1.7034768150781474</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>86</_xFEFF_id>
+    <Nombre>Cruce Cassa Josefa</Nombre>
+    <Latitud>37.691776114639936</Latitud>
+    <Longitud>-1.7025326775049052</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>87</_xFEFF_id>
+    <Nombre>Cerrajería Celestino</Nombre>
+    <Latitud>37.69106296387742</Latitud>
+    <Longitud>-1.701288132521995</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>88</_xFEFF_id>
+    <Nombre>Bar Córdoba</Nombre>
+    <Latitud>37.68640373938482</Latitud>
+    <Longitud>-1.700514669338645</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>89</_xFEFF_id>
+    <Nombre>Mercado semanal</Nombre>
+    <Latitud>37.68640373938482</Latitud>
+    <Longitud>-1.6892011117138281</Longitud>
+  </paradas-autobus>
+  <paradas-autobus>
+    <_xFEFF_id>90</_xFEFF_id>
+    <Nombre>Ramón Arcas</Nombre>
+    <Latitud>37.67678205371493</Latitud>
+    <Longitud>-1.694610506124036</Longitud>
+  </paradas-autobus>
+</paradas-autobus>
